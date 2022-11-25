@@ -1,4 +1,4 @@
-Hello, my name is Lior Bitton, I am a 18 years old computer science student.
+Hello, my name is Lior Bitton, I am an 18 years old computer science student.
 # My Projects:
 * EverScout - An Android application used to capture FRC match data in real time, the data is stored in Firebase and can be accessed via python in order to be analysed and visually presented.
 * [FRC-Scouting](https://github.com/LiorBitton/FRC-scouting) - Same Functionality that EverScout has just made using flutter and designed to be modular and customised for each FRC game.
